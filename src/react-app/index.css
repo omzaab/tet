@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'PT Sans', system-ui, Arial, sans-serif;
+  --color-primary: #7B8B4F;
+  --color-background: #F2F0EC;
+  --color-accent: #8B4F7B;
+}
+
+.font-heading {
+  font-family: 'Playfair Display', serif;
+}
+
+.font-body {
+  font-family: 'PT Sans', sans-serif;
+}
